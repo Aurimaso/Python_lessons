@@ -1,5 +1,6 @@
 from decimal import DivisionByZero
 import unittest
+from unittest.mock import MagicMock
 import aritmetika
 
 
